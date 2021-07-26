@@ -138,7 +138,7 @@ Name      | Pronunciation  | Notes
 Lewandowski| Le-van-dove-ski |
 Kowalski | Co-val-ski | co- as in code
 Wilczek | Vil-check|
-Kaczyński | Ca-chi-n(i)-ski | n(i) as in ninga
+Kaczyński | Ca-chi-n(i)-ski | n(i) as in ninja
 Brzęczyszczykiewicz | B-z(hard)-(french) ain-chee-sh-chee-kie-wi-tch | good benchmark for Polish
 
 ---
