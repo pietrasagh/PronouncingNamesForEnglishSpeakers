@@ -105,6 +105,41 @@ Yamashita | Yah-MAH-sh-Ta  | some vowels (i, u) get removed (called devoicing), 
 Kyoko     | Kyoh-koh       | (not Kee-oh-koh)      
 Ryousuke  | Ryoh-skeh      | the -suke suffix is usually skeh
 
+## Polish
+
+Main misspronounciations are due to letters having different vowels or consonant than English and reading accentes letters as without it.  
+
+Vowel | Pronunciation| Notes
+------|--------------|------------
+ą     | French -on | French son
+c     | ts | cats
+ć / ci| ch (soft) | children
+cz    | ch (hard) | check 
+ch / h | h | huge
+dz    | ds | beds
+dź / dzi | j (soft) | jeep
+dż | j (hard) | jug
+ę | French ain | French saint
+g    | g | girl
+j     | y | yes
+ł | w | week
+ń | ni | ninja
+ó / u | oo | moove
+sz    | sh | shore
+w     | v | vile
+y | i | mill
+ź / zi | z (soft) | vision
+ż / rz | z (hard) | azure
+
+### Names commonly pronounced uncorrecty
+
+Name      | Pronunciation  | Notes
+----------|----------------|---------
+Lewandowski| Le-van-dove-ski |
+Kowalski | Co-val-ski | co- as in code
+Wilczek | Vil-check|
+Kaczyński | Ca-chi-n(i)-ski | n(i) as in ninga
+Brzęczyszczykiewicz | B-z(hard)-(french) ain-chee-sh-chee-kie-wi-tch | good benchmark for Polish
 
 ---
 by Steve Carroll
